@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Motivation behind examfactRy
 
 _yay_
 
